@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-redux-firebase/static/css/main.750c5387.css",
+    "main.js": "/react-redux-firebase/static/js/main.e4aa1144.js",
+    "index.html": "/react-redux-firebase/index.html",
+    "main.750c5387.css.map": "/react-redux-firebase/static/css/main.750c5387.css.map",
+    "main.e4aa1144.js.map": "/react-redux-firebase/static/js/main.e4aa1144.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.750c5387.css",
+    "static/js/main.e4aa1144.js"
+  ]
+}
